@@ -5,6 +5,11 @@
 # Files for the Dalvik VM
 *.dex
 
+
+# crivaly 20150415 para excluir los backups de gedit
+*~
+*.userprefs
+
 # Java class files
 *.class
 
